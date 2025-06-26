@@ -1,4 +1,4 @@
- <h1>Nome da Aplicação</h1>
+ <h1>DevNike</h1>
 
 <h2>Descrição breve da aplicação. Por exemplo: "Esta aplicação permite que os usuários mudem o visual de uma página da web, alterando a cor de fundo e a imagem de um tênis com um efeito de transição."</h2>
 
